@@ -10,11 +10,11 @@ config_version=5
 
 [application]
 
-config/name="New Cult And Legend"
-run/main_scene="res://MainMenu.tscn"
+config/name="Cult And Legend"
+run/main_scene="res://main_menu.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="New Cult And Legend"
+project/assembly_name="Cult And Legend"

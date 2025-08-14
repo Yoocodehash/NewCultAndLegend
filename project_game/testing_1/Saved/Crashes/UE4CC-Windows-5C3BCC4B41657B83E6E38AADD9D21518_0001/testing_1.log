@@ -1226,29 +1226,3 @@ Script Stack (0 frames):
 [2025.08.14-15.16.19:832][308]LogVolumetricLightmapImport:      Bricks in each level
 [2025.08.14-15.16.19:832][308]LogVolumetricLightmapImport:          NewMap 			 1079 bricks 	 100.0% (Persistent Level)
 [2025.08.14-15.16.20:743][308]LogLightmassSolver: Warning: Mapping not found for 000000000000000000000000000000F1
-[2025.08.14-15.16.23:003][308]LogWindows: Error: === Critical error: ===
-[2025.08.14-15.16.23:003][308]LogWindows: Error: 
-[2025.08.14-15.16.23:003][308]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000078
-[2025.08.14-15.16.23:003][308]LogWindows: Error: 
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff984ce6051 UE4Editor-Engine.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff9829559cc UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff98292caf9 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff982cb0ec0 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff982ccd23b UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff982ce1c80 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff982ce0fc4 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff982ce121a UE4Editor-UnrealEd.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff6320a87a0 UE4Editor.exe!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff6320c0fcc UE4Editor.exe!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff6320c10ba UE4Editor.exe!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff6320c40dd UE4Editor.exe!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff6320d5984 UE4Editor.exe!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ff6320d853a UE4Editor.exe!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ffab159e8d7 KERNEL32.DLL!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: [Callstack] 0x00007ffab2a5c34c ntdll.dll!UnknownFunction []
-[2025.08.14-15.16.23:003][308]LogWindows: Error: 
-[2025.08.14-15.16.23:022][308]LogExit: Executing StaticShutdownAfterError
-[2025.08.14-15.16.23:026][308]LogWindows: FPlatformMisc::RequestExit(1)
-[2025.08.14-15.16.23:026][308]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
-[2025.08.14-15.16.23:026][308]LogCore: Engine exit requested (reason: Win RequestExit)
-[2025.08.14-15.16.23:038][308]Log file closed, 08/14/25 11:16:23
